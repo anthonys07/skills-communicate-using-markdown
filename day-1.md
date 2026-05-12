@@ -1,9 +1,10 @@
 # Daily Learning (Heading 1) 
 ## Morning Planning (Heading 2) 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 - [ ] Check out github blog 
 - [ ] Learn about github pages 
 - [ ] Convert my first blog post into an actual webpage
-- These are what the walkthrough tells me to do
 ## Review (Heading 2) 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 ```bash
